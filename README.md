@@ -10,3 +10,5 @@ A very basic music player, using HTML,SASS and Javascript.
 # What I want to improve/add
 - Using separate data source for songs. May be an API?
 - Playlist feature
+
+# Live Project : https://eargasm.netlify.app/
